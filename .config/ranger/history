@@ -1,0 +1,50 @@
+shell latexmk -C
+cd american gods/
+cd billions
+mkdir watchme
+cd atlanta/
+rename Unsere Mutter, Unsere Vater S01E01 (Generation War) HDTV.mkv
+w
+rename Unsere Mutter, Unsere Vater S01E03 (Generation War) HDTV.mkv
+
+shell vim tvshow.nfo
+mkdir generation war
+rename Generation.War.S01E01.mkv
+rename Generation.War.S01E02.mkv
+rename Generation.War.S01E03.mkv
+mkdir Fist.Fight.2017.720p.BRRiP.900MB.ShAaNiG
+mkdir Mindhorn.2017.NF.720p.WEBRiP.800MB.ShAaNiG
+mkdir The.Salesman.2016.720p.BRRiP.x264.ShAaNiG
+cd veep/
+cd /home/thombang/Downloads/Torrents
+mkdir Logan.2017.720p.WEB-DL.x264.ShAaNiG
+mkdir Mean.Dreams.2016.720p.BRRiP.950MB.ShAaNiG
+cd archer 2009
+cd fargo/
+cd modern family/
+cd casual/
+mkdir Season 03
+cd Season 03
+cd the americans/
+cd /media/
+cd silicon valley/
+cd /media/smb-192.168.2.102-tvshows/silicon valley
+cd american crime story
+cd the leftovers/
+cd twin peaks/
+delete
+mkdir designated survivor
+cd /q
+cd -
+cd designated survivor/
+cd 
+cd /media/smb-192.168.2.102-tvshows
+cd house of cards
+cd better call saul
+cd /home/thombang/.yadm/repo.git
+mkdir f is for family
+mkdir Season 01
+mkdir Season 02
+mkdir Life.2017.720p.BRRiP.950MB.ShAaNiG
+mkdir The.Fate.of.the.Furious.2017.720p.WEB-DL.x264.ShAaNiG
+mkdir The.Secret.Scriptures.2016.720p.WEB-DL.950MB.ShAaNiG
